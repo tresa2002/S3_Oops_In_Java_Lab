@@ -1,4 +1,4 @@
-// Java program to check whether the given number is palindrome or not.
+// Java program to check whether the given number is armstrong or not.
 
 import java.io.*;
 import java.util.*;
